@@ -1,38 +1,87 @@
-以下提到的"作者"指代的均为Genouka，而非"贡献者"。
+# LICENSE
 
-本项目采用三种不同的授权方式授权：
+本项目采用 **用户分段双重许可 (Segmented Dual Licensing)** 模式：
 
-1.仅当遵守以下要求时，你被允许根据AGPL3.0获得许可（除非作者更改许可证，否则不允许使用后续版本）：
+---
 
-  - (1). 当你把项目作为整体使用时，你不能获得授权。（包括但不限于：你只是克隆仓库并修改许可证；你将本项目整体不做改动或略做改动便公开发布）
-  
-  - (2). 禁止将你编译的产物（如apk、aab等，包括修改后的，例如将应用程序名称重命名为“TerBox”）分发到任何应用商店（包括但不限于 Google Play store、F-Droid、亚马逊应用商店、酷安、小问商店、小趣商店等）。
+## 1. 开源许可证（GNU AGPL v3）
 
-  - (3). 当你被授权后违反以上要求时，你立即失去授权。 **请注意：本项要求的优先级高于AGPL3.0。**
-  
-  - (4). `app/src/main/res/drawable/ic_launcher.webp`图标不属于授权范围，版权和所有权归GenOuka所有！
+`app/src/main/res/drawable/ic_launcher.webp`图标不属于开源许可证授权范围，版权和所有权归GenOuka所有！
 
-2.商用授权，通过联系作者获得关于书面授权的详细信息。
+本项目在以下条件下，可以免费使用，并遵循 **GNU Affero General Public License v3.0 (AGPL v3)**：
+- 使用场景为 **非商业用途**；
+- 或者用于 **个人/教育/研究** 目的；
+- 或者由 **用户总数不超过 10 人** 的个人或组织使用；
+- 不将编译产物分发到任何应用商店。
 
-3.作者直接取得授权，作者始终持有所有权和所有一切关于本源码和其产物的权利。
+AGPL v3 的全文请见：https://www.gnu.org/licenses/agpl-3.0.html
 
-无论采用哪种方式授权，本软件都不含任何保证。
+> 注意：即便在 AGPL v3 下，您仍然需要遵守协议条款，例如公开源代码等义务。
 
-当你为本项目做任何贡献时必须同意：
+---
 
-   (1). 你永久并且不可撤销地授权：任何人都可以通过以上三种不同的授权方式中任意一种获得授权。
+## 2. 商业许可证（Commercial License）
 
-   (2). 你永久并且不可撤销地放弃你贡献的代码的专利。
+如果您的使用场景不符合上述条件，例如：
+- 用于 **商业用途**（直接或间接产生商业利益的服务或产品）；
+- 或者 **用户总数超过 10 人**；
+- 或者您希望避免 AGPL v3 的源代码开源义务；
+- 或者您希望将编译产物分发到任何应用商店。
 
-   (3). 你永久并且不可撤销地授权作者持有你所贡献的内容的所有权和处理权。
 
-以上是根据RareBox原来是一个闭源软件而做出的综合考量，如果你对以上条件感到不满，请知悉：
+那么您必须事先与项目维护者签署 **商业许可证 (Commercial License)**。
 
-   (1). 没有什么软件开发起来是容易的。
+申请商业授权请联系：
+- 邮箱：master@genouka.top
 
-   (2). 没有什么理由是让一个软件必须开源的。
+---
 
-   (3). 作者没有义务处理你的问题，贡献者也没有。
+## 3. 许可政策更新
 
-   (4). 本项目纯粹用爱发电，爱用不用，不管用不用你都没有理由骂人。
-   
+项目维护者保留更新许可政策的权利。更新将通过官方渠道（如代码仓库、官方网站）进行通知。
+
+---
+
+LICENSE
+
+This project adopts a Segmented Dual Licensing model:
+
+---
+
+1. Open Source License (GNU AGPL v3)
+
+The app/src/main/res/drawable/ic_launcher.webp icon is not covered by the open source license; its copyright and ownership belong solely to GenOuka!
+
+Under the following conditions, this project may be used free of charge and is governed by the GNU Affero General Public License v3.0 (AGPL v3):
+
+· The usage scenario is non-commercial;
+· Or it is used for personal/educational/research purposes;
+· Or it is used by an individual or organization with no more than 10 users in total;
+· The compiled product is not distributed to any app store.
+
+The full text of AGPL v3 can be found at: https://www.gnu.org/licenses/agpl-3.0.html
+
+Note: Even under AGPL v3, you are still required to comply with the terms of the license, such as the obligation to disclose source code.
+
+---
+
+2. Commercial License
+
+If your usage scenario does not meet the above conditions, for example:
+
+· It is used for commercial purposes (products or services that generate commercial benefits, directly or indirectly);
+· Or the total number of users exceeds 10;
+· Or you wish to avoid the source code disclosure obligation under AGPL v3;
+· Or you wish to distribute the compiled product to any app store.
+
+Then you must obtain a Commercial License from the project maintainer in advance.
+
+To apply for a commercial license, please contact:
+
+· Email: master@genouka.top
+
+---
+
+3. License Policy Updates
+
+The project maintainer reserves the right to update the license policy. Updates will be announced through official channels (e.g., code repository, official website).
