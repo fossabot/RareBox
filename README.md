@@ -2,6 +2,7 @@
 **一个完全开源免费的WearOS手表和Android调试工具箱。麻雀虽小五脏俱全！**
 
 ![RareBox](https://github.com/Genouka/RareBox/assets/142009020/90a9719c-9f8e-4d96-a1a2-4c9b7902841b)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGenouka%2FRareBox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGenouka%2FRareBox?ref=badge_shield)
    
 # 功能
 在手表上自调试：
@@ -47,3 +48,7 @@
 
 ## 特殊类型许可
 见[LICENSE.special](LICENSE.special)文件
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGenouka%2FRareBox.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGenouka%2FRareBox?ref=badge_large)
